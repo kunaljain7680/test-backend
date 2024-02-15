@@ -1,0 +1,5 @@
+# aise cheezen jo recreat kr skte hn using code/command vo not push like node modules
+# .env has sensitive info so not push on git
+
+node_modules
+.env
